@@ -9,6 +9,6 @@
         echo <img src="cat.jpg">;
         echo <img src="cat2.jpg">;
     ?>
-    echo <a href="http://www.it.kmitl.ac.th">This is a Link</a>;
+    <a href="http://www.it.kmitl.ac.th">This is a Link</a>;
 </body>
 </html>
